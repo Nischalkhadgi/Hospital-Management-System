@@ -1,0 +1,13 @@
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\bin\Debug\hospitalManagementSystem.exe.config
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\bin\Debug\hospitalManagementSystem.exe
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\bin\Debug\hospitalManagementSystem.pdb
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.csprojAssemblyReference.cache
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.MainForm.resources
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.Properties.Resources.resources
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.csproj.GenerateResource.cache
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.exe
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.pdb
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.Patient.resources
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.Doctor.resources
+C:\Users\BATMAN\source\repos\hospitalManagementSystem\hospitalManagementSystem\obj\Debug\hospitalManagementSystem.Services.resources
